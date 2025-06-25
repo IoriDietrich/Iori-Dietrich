@@ -1,0 +1,47 @@
+p{
+    color:rgb(184, 138, 12);
+    font-size: 20px;
+    text-align: center;
+}
+header{
+    color:rgb(49, 0, 88);
+    font-size:30px;
+    text-align:center;
+    background-color: rgba(153, 35, 5, 0.534);
+    margin: 0;
+}
+footer{
+    text-align: center;
+    color: green;
+}
+nav{
+    text-align:center;
+}
+blockquote{
+    color: rgb(245, 8, 0);
+}
+ul{
+    color:rgb(184, 134, 12)
+}
+.container{
+    display: flex;
+    margin: 10px;
+}
+.esquerda{
+    width:50%;
+    background-color: rgba(89, 29, 144, 0.959);
+    padding: 20px;
+    text-align: center;
+    color: red;
+}
+.espaco{
+    width: 5%;
+    background-color: black;
+}
+.direita{
+    width: 50%;
+    background-color: rgb(109, 19, 19);
+    padding: 20px;
+    text-align: center;
+    color: blueviolet;
+}
